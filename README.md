@@ -1,7 +1,15 @@
 # PrakTCC-2020
-Kumpulan berkas ajar Praktikum Teknologi Cloud Computing UPN Veteran Yogyakarta
+Kumpulan berkas ajar Praktikum Teknologi Cloud Computing UPN "Veteran" Yogyakarta
+T.A. Semester Genap 2019/2020
 
 # Informasi Terbaru
+## Jum'at, 20 Maret 2020
+Format laporan Proyek Akhir telah diunggah. Harap dapat diunduh dan dikerjakan sesuai petunjuk di laporan tersebut. Pengumpulan laporan tidak menggunakan GitHub, harap dipantau informasi berikutnya mengenai teknis pengumpulan Progress Project. Batas pengumpulan adalah sebelum jam praktikum dimulai. Contoh: Kelas E batas pengumpulan adalah sebelum jam 13:00 WIB. Lebih dari jam pengumpulan dianggap tidak menghadiri pertemuan Progress Project (tidak mendapatkan nilai kehadiran, nilai presentasi, dan nilai pada pertemuan).
+
+Pengerjaan Progress Project **setidaknya** 25%, lebih dari itu lebih baik. Identitas harus sudah lengkap beserta Bab 1.
+
+Tim Koordinator (Jaluanda Parama)
+
 ## Rabu, 18 Maret 2020
 Update terbaru mengenai informasi perkuliahan Praktikum Teknologi Cloud Computing berdasarkan hasil rapat koordinasi FTI (Senin, 16 Maret 2020; 12:30WIB) terkait Surat Edaran (SE) No. 9/UN62/SE/TA.05.14/2020 terutama pada klausa praktikum/akademik adalah:
 
