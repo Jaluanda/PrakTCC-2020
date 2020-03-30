@@ -2,19 +2,37 @@
 Kumpulan berkas ajar Praktikum Teknologi Cloud Computing UPN "Veteran" Yogyakarta
 T.A. Semester Genap 2019/2020
 
+# Agenda Praktikum
+Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil dari Surat Edaran dan pembahasan Tim Koordinator Praktikum TCC:
+- Pertemuan 6 (11 - 13 Maret): Kelanjutan FreeNAS dan Penyampaian Project
+- Pertemuan 7 (1 - 3 April): Submisi Progress Project 1
+- Pertemuan 8 (8 - 10 April): Revisi Laporan dan Melanjutkan Project
+- Pertemuan 9 (15 - 17 April): Submisi Progress Project 2 (hasil dari revisi Pertemuan 7)
+- Pertemuan 10 (22 - 24 April): Revisi Laporan dan Melanjutkan Project
+- Pertemuan 11 (30 April): Submisi Final Project
+- Pertemuan 12 (sesuai jadwal UAS di CBIS): Administrasi UAS (berita acara, pernyataan kejujuran, dsb.)
+
 # Informasi Terbaru
-## Senin, 30 Maret 2020
-Submisi **Progress Project Akhir** melalui e-mail: `jaluandaparama@gmail.com`
-CC (jangan lupa): `muhammadimamalfatah@gmail.com` atau `wahyu_aji11@rocketmail.com` tergantung asisten kelasnya sesuai CBIS/jadwal semula.
-Subjek: `Kelompok_Kelas_ProgressTCC` (Contoh: 7_A_ProgressTCC)
-Content: 
-- Lampiran laporan dalam bentuk PDF yang telah dikerjakan dengan format nama berkas `Kelompok_Kelas_ProgressTCC.pdf`
-- Keterangan singkat sejauh mana pengerjaan yang telah dilakukan dan kendalanya bila ada, dalam bentuk isian (body) email (tulisan biasa) 
+## Senin, 30 Maret 2020 (revised)
+Informasi berikut berdasarkan *Petunjuk Teknis Pembelajaran dengan Model Daring...* yang telah dikeluarkan Kajur Teknik IF tertanggal 30 Maret 2020:
 
-Batas pengumpulan sebelum jadwal praktikum dimulai. Dapat dikumpulkan mulai hari ini. Satu kelompok salah satu saja yang mengumpulkan.
-Bentuk koreksi oleh asisten adalah dalam bentuk Comment, Highlight, atau Coretan di PDF dan akan dikirim kembali ke email pengirim maks. 1 minggu atau dipublish di GitHub ini.
+- **Agenda praktikum** TCC telah disusun dan dapat dilihat pada sub keterangan di atas.
+- Dikarenakan penyampaian materi telah mencapai target capaian dan sesuai dengan standar minimal 6 kali pertemuan, untuk penyampaian materi berikutnya dalam bentuk **self-study** dengan hasil akhir Project Akhir. Untuk materi Docker diubah menjadi self-study.
+- **Presensi praktikum** tetap berjalan dan sesuai dengan capaian pada setiap pertemuan. Contoh: bila mengumpulkan tugas maka mendapat nilai presensi dan dianggap hadir. Untuk pertemuan self-study/revisi laporan juga dilihat capaiannya secara subjektif berdasarkan progress project.
+- Untuk memberikan hasil dan nilai yang maksimal, maka terdapat tambahan yaitu **Progress Project 2** (capaian minimal 50%).
+- Perihal **Administrasi UAS** akan disampaikan dikemudian hari berdasarkan format dari Tim Koordinator Asisten.
 
-Untuk praktikum TCC dikarenakan telah 6 kali pertemuan, sesuai standar minimal aturan di kampus, maka pertemuan berikutnya dalam bentuk pengumpulan tugas saja. Tidak ada konten materi online classroom yang akan dipublish (materi Docker diubah menjadi self-study). Untuk presensi akan disesuaikan dengan pengumpulan tugas.
+## Perihal Submisi Progress Project 1
+Berikut informasi mengenai submisi **Progress Project 1**:
+- Submisi **Progress Project 1** melalui e-mail: `jaluandaparama@gmail.com`
+- CC (jangan lupa): `muhammadimamalfatah@gmail.com` atau `wahyu_aji11@rocketmail.com` tergantung asisten kelasnya sesuai CBIS/jadwal semula.
+- Subjek `Kelas_Kelompok_ProgressTCC1` (Contoh: A_1_ProgressTCC1)
+- Lampirkan laporan dalam bentuk PDF yang telah dikerjakan dengan format nama berkas `Kelas_Kelompok_ProgressTCC1.pdf`
+- Berikan keterangan singkat sejauh mana pengerjaan yang telah dilakukan dan kendalanya, dalam bentuk isian (body) email (tulisan biasa)
+- **Tidak sesuai format auto-delete e-mail**, setelah kirim e-mail pastikan kembali telah sesuai format.
+
+Batas pengumpulan **sebelum jadwal praktikum dimulai**. Dapat dikumpulkan mulai hari ini. Satu kelompok salah satu saja yang mengumpulkan.
+Bentuk koreksi oleh asisten adalah dalam bentuk Comment, Highlight, atau Coretan di PDF dan akan dikirim kembali ke email pengirim maks. 1 minggu atau dipublish di Repository GitHub ini.
 
 Tim Koordinator (Jaluanda Parama)
 
