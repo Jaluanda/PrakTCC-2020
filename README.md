@@ -3,10 +3,26 @@ Kumpulan berkas ajar Praktikum Teknologi Cloud Computing UPN "Veteran" Yogyakart
 T.A. Semester Genap 2019/2020
 
 # Informasi Terbaru
+## Senin, 30 Maret 2020
+Submisi **Progress Project Akhir** melalui e-mail: `jaluandaparama@gmail.com`
+CC (jangan lupa): `muhammadimamalfatah@gmail.com` atau `wahyu_aji11@rocketmail.com` tergantung asisten kelasnya sesuai CBIS/jadwal semula.
+Subjek: `Kelompok_Kelas_ProgressTCC` (Contoh: 7_A_ProgressTCC)
+Content: 
+- Lampiran laporan dalam bentuk PDF yang telah dikerjakan dengan format nama berkas `Kelompok_Kelas_ProgressTCC.pdf`
+- Keterangan singkat sejauh mana pengerjaan yang telah dilakukan dan kendalanya bila ada, dalam bentuk isian (body) email (tulisan biasa) 
+
+Batas pengumpulan sebelum jadwal praktikum dimulai. Dapat dikumpulkan mulai hari ini. Satu kelompok salah satu saja yang mengumpulkan.
+Bentuk koreksi oleh asisten adalah dalam bentuk Comment, Highlight, atau Coretan di PDF dan akan dikirim kembali ke email pengirim maks. 1 minggu atau dipublish di GitHub ini.
+
+Untuk praktikum TCC dikarenakan telah 6 kali pertemuan, sesuai standar minimal aturan di kampus, maka pertemuan berikutnya dalam bentuk pengumpulan tugas saja. Tidak ada konten materi online classroom yang akan dipublish (materi Docker diubah menjadi self-study). Untuk presensi akan disesuaikan dengan pengumpulan tugas.
+
+Tim Koordinator (Jaluanda Parama)
+
 ## Jum'at, 20 Maret 2020
 Format laporan Proyek Akhir telah diunggah. Harap dapat diunduh dan dikerjakan sesuai petunjuk di laporan tersebut. Pengumpulan laporan tidak menggunakan GitHub, harap dipantau informasi berikutnya mengenai teknis pengumpulan Progress Project. Batas pengumpulan adalah sebelum jam praktikum dimulai. Contoh: Kelas E batas pengumpulan adalah sebelum jam 13:00 WIB. Lebih dari jam pengumpulan dianggap tidak menghadiri pertemuan Progress Project (tidak mendapatkan nilai kehadiran, nilai presentasi, dan nilai pada pertemuan).
 
 Pengerjaan Progress Project **setidaknya** 25%, lebih dari itu lebih baik. Identitas harus sudah lengkap beserta Bab 1.
+Selamat mengerjakan. #staysafe
 
 Tim Koordinator (Jaluanda Parama)
 
