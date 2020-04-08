@@ -6,13 +6,23 @@ T.A. Semester Genap 2019/2020
 Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil dari Surat Edaran dan pembahasan Tim Koordinator Praktikum TCC:
 - Pertemuan 6 (11 - 13 Maret): Kelanjutan FreeNAS dan Penyampaian Project
 - Pertemuan 7 (1 - 3 April): Submisi Progress Project 1
-- Pertemuan 8 (8 - 10 April): Revisi Laporan dan Melanjutkan Project
-- Pertemuan 9 (15 - 17 April): Submisi Progress Project 2 (hasil dari revisi Pertemuan 7)
-- Pertemuan 10 (22 - 24 April): Revisi Laporan dan Melanjutkan Project
-- Pertemuan 11 (30 April): Submisi Final Project
+- Pertemuan 8 (15 - 17 April): Revisi Laporan dan Melanjutkan Project
+- Pertemuan 9 (22 - 24 April): Submisi Progress Project 2 (hasil dari revisi Pertemuan 7)
+- Pertemuan 10 (29 - 30 April ~ 1 Mei): Revisi Laporan dan Melanjutkan Project
+- Pertemuan 11 (9 - 10 Mei): Submisi Final Project dan Presentasi Online
 - Pertemuan 12 (sesuai jadwal UAS di CBIS): Administrasi UAS (berita acara, pernyataan kejujuran, dsb.)
 
 # Informasi Terbaru
+## Rabu, 8 April 2020
+Informasi perihal submisi laporan **Progress Project 1**:
+- Dikarenakan mayoritas tidak sesuai dengan ekspektasi format penulisan dan format yang kami berikan tidak cukup jelas, maka untuk agenda praktikum disesuaikan kembali. 
+- Kami akan mempublish ulang format penulisan yang lebih jelas sebagai acuan untuk penulisan berikutnya.
+- Laporan yang telah dikumpulkan tetap dapat dilanjutkan setelah menerima revisi dari kami dan menyesuaikan format penulisan berdasarkan format yang baru.
+- Untuk laporan yang sudah ada saat ini akan dibagikan kembali minggu depan pada pertemuan kedelapan. 
+Mohon maaf untuk kesalahan dalam penyampaian formatnya.
+
+Tim Koordinator (Jaluanda Parama)
+
 ## Senin, 30 Maret 2020 (revised)
 Informasi berikut berdasarkan *Petunjuk Teknis Pembelajaran dengan Model Daring...* yang telah dikeluarkan Kajur Teknik IF tertanggal 30 Maret 2020:
 
@@ -22,7 +32,7 @@ Informasi berikut berdasarkan *Petunjuk Teknis Pembelajaran dengan Model Daring.
 - Untuk memberikan hasil dan nilai yang maksimal, maka terdapat tambahan yaitu **Progress Project 2** (capaian minimal 50%).
 - Perihal **Administrasi UAS** akan disampaikan dikemudian hari berdasarkan format dari Tim Koordinator Asisten.
 
-## Perihal Submisi Progress Project 1
+### Perihal Submisi Progress Project 1
 Berikut informasi mengenai submisi **Progress Project 1**:
 - Submisi **Progress Project 1** melalui e-mail: `jaluandaparama@gmail.com`
 - CC (jangan lupa): `muhammadimamalfatah@gmail.com` atau `wahyu_aji11@rocketmail.com` tergantung asisten kelasnya sesuai CBIS/jadwal semula.
