@@ -12,6 +12,17 @@ Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil 
 - Pertemuan 11 (13 - 15 Mei): Submisi Final Project dan Presentasi Online
 - Pertemuan 12 (sesuai jadwal UAS di CBIS): Administrasi UAS (berita acara, pernyataan kejujuran, dsb.)
 
+# Bantuan untuk Project Akhir
+## FreeNAS
+to do
+
+## Docker
+to do
+
+## Lainnya
+to do
+
+
 # Informasi Terbaru
 ## Rabu, 15 April 2020
 Informasi perihal **hasil** submisi laporan **Progress Project 1**:
