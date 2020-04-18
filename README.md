@@ -6,30 +6,57 @@ T.A. Semester Genap 2019/2020
 Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil dari Surat Edaran dan pembahasan Tim Koordinator Praktikum TCC:
 - ~~Pertemuan 6 (11 - 13 Maret): Kelanjutan FreeNAS dan Penyampaian Project~~
 - ~~Pertemuan 7 (1 - 3 April): Submisi Progress Project 1~~
-- Pertemuan 8 (15 - 17 April): Revisi Laporan dan Melanjutkan Project
+- ~~Pertemuan 8 (15 - 17 April): Revisi Laporan dan Melanjutkan Project~~
 - Pertemuan 9 (29 - 30 April ~ 1 Mei): Submisi Progress Project 2 (hasil dari revisi Pertemuan 7)
 - Pertemuan 10 (6 - 8 Mei): Revisi Laporan dan Melanjutkan Project
 - Pertemuan 11 (13 - 15 Mei): Submisi Final Project dan Presentasi Online
 - Pertemuan 12 (sesuai jadwal UAS di CBIS): Administrasi UAS (berita acara, pernyataan kejujuran, dsb.)
 
 # Bantuan untuk Project Akhir
+##Topologi
+Berikut contoh pembuatan topologi untuk Proyek Akhir, dapat dikreasikan sendiri namun harus jelas (konten, tulisan, garis pembatas, objek cloudnya).
+![Topologi Arsitektur](https://i.imgur.com/FjJ4odz.png) 
+![Topologi Sistem](https://i.imgur.com/AW3P2BA.png) 
+![Topologi Jaringan](https://i.imgur.com/m5GPgG1.png) 
+
 ## FreeNAS
-to do
+Contoh yang sederhana untuk pemanfaatan Ubuntu LAMPP dengan integrasi File Storage pada FreeNAS adalah menggunakan modul FTP/SCP/SFTP (mirip seperti Samba).
+1. Mengkonfigurasi penyimpanan pada FreeNAS seperti biasa (datastore, user, group, dst.)
+2. Mengaktifkan modul/service pada FreeNAS untuk layanan FTP.
+3. Mengubah kodingan/sistem di Ubuntu LAMPP, semisal pengambilan foto profil:
+	- Foto profil yang sebelumnya di Ubuntu LAMPP dipindah ke FreeNAS. Tidak ada foto profil di Ubuntu LAMPP.
+	- Menambahkan kodingan sedikit. Konsepnya ialah foto di FreeNAS di ambil (download) ke Ubuntu terlebih dahulu dengan FTP (misal ditaruh di folder image), kemudian baru ditampilkan ke user. Jadi bukan foto dari FreeNAS langsung ditampilkan ke user, salah.
+	- Foto yang diambil bersifat sementara, jadi setelah ditampilkan maka dihapus. Atau setiap kali menampilkan foto profil, foto yang ada saat ini dihapus dulu, atau langsung dapat ditimpa yang baru.
+4. Contoh lainnya dapat menyesuaikan. Namun pada prinsipnya adalah: User Akses -> Sistem Ubuntu LAMPP -> FTP ke FreeNAS -> Mendapatkan berkas (download via FTP) ke Ubuntu LAMPP -> Ditampilkan/Filestream/Mode Download ke User.
+5. Referensi dapat dilihat di:
+	- Dokumentasi CodeIgniter: https://codeigniter.com/userguide3/libraries/ftp.html
+	- Dokumentasi Laravel: https://laravel.com/docs/7.x/filesystem
+	- Blog pribadi: https://arjunphp.com/uploading-file-via-ftp-using-codeigniter/
+	- Blog pribadi: https://garrettstjohn.com/articles/ftp-download-codeigniter-library/
+	- dan dapat menggunakan library 3rd party/library custom.
 
 ## Docker
-to do
+Contoh pembuatan Docker:
+- Setengah proses pembuatan ada pada Modul Praktikum. Namun harap disesuaikan kembali, tidak harus menggunakan yang ada di modul.
+- Panduan tutorial Digital Ocean: https://www.digitalocean.com/community/tutorials/how-to-set-up-laravel-nginx-and-mysql-with-docker-compose
+- Panduan dari blog pribadi: https://linuxhint.com/lamp_server_docker/
 
 ## Lainnya
-to do
+- Yang perlu diperhatikan ialah bilamana mencari tutorial, pastikan sama versi Ubuntu yang digunakan dengan yang ditunjukkan di tutorial. Bilamana berbeda mungkin akan ada kendala, atau dapat diteruskan namun disesuaikan perintah-perintah yang digunakan.
+- Selalu backup VM sebelum mengutak-atik VM lebih lanjut. Bilamana salah konfigurasi, VM dapat rusak dan tidak dapat digunakan lagi. Cara paling cepat memperbaiki ialah gunakan VM backup yang sudah dibuat sebelumnya.
+- Bilamana menemukan kendala, silakan dicoba disolusikan sendiri. Bilamana berhasil dapat dimasukkan ke laporan untuk tambahan penilaian, dibuat sendiri sub bab-nya dan diletakkan di tempat yang sesuai.
 
+## Perihal Kelompok
+- Bilamana terdapat anggota kelompok yang dirasa menghambat dan tidak dapat ditolerir lagi, dapat menghubungi saya (Jalu) untuk konsultasi lanjut.
+- Bilamana terdapat kendala masalah komunikasi antar anggota hingga menghambat progress pengerjaan (misal kondisi ekonomi tidak dapat membeli paket data, kondisi laptop yang sangat tidak memungkinkan, dan semua usaha lainnya sudah maksimal), sehingga tidak mungkin dikerjakannya project akhir ini, hubungi saya (Jalu).
 
-# Informasi Terbaru
+# INFORMASI TERBARU
 ## Rabu, 15 April 2020
 Informasi perihal **hasil** submisi laporan **Progress Project 1**:
 - Format penulisan laporan yang baru telah diupload dengan nama berkas `Format Laporan Cloud Computing v2`. Penulisan untuk Progress Project 2 dan seterusnya menyesuaikan berkas tersebut.
 - Untuk progress pertama telah kami nilai dan hasilnya telah diupload di Repository ini. Hasilnya dapat dicek di folder `Progress Project 1` dan pilih kelas yang sesuai. Kemudian pilih nomor urut kelompoknya.
-- Kami berikan waktu 2 minggu untuk memperbaiki penulisan format yang telah kami perbarui dan dilanjutkan pengerjaan sesuai target yaitu 50% hasilnya sudah tertuang di Progress Project 2.
-- Dengan demikian terdapat perubahan agenda dan dapat dilihat kembali di atas. Mohon untuk semua praktikan praktikum ini dapat menyesuaikan kembali.
+- Kami berikan waktu 2 minggu untuk memperbaiki penulisan format yang telah kami perbarui dan dilanjutkan pengerjaan sesuai target yaitu (minimal) 50% hasilnya sudah tertuang di Progress Project 2.
+- Dengan demikian terdapat perubahan agenda dan dapat dilihat kembali di atas. Mohon untuk semua praktikan di praktikum ini dapat menyesuaikan kembali.
 - Untuk hasil submisi kelas yang belum diupload di GitHub ini dapat dicek secara berkala.
 - Tambahan info, untuk yang merasa kurang dalam hal presensi kehadiran (tidak hadir praktikum) semasa sebelum UTS dan melanjutkan dengan tidak mengumpulkan tugas yang kami berikan setelah UTS (Project Akhir) hingga terakumulasi kurangnya presensi kehadiran, maka nilai akhir kami beri E sesuai aturan praktikum. Cara penghitungan presensi kehadiran untuk Project Akhir dapat dilihat di informasi sebelumnya.
 
