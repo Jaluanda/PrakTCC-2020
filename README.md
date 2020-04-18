@@ -13,7 +13,7 @@ Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil 
 - Pertemuan 12 (sesuai jadwal UAS di CBIS): Administrasi UAS (berita acara, pernyataan kejujuran, dsb.)
 
 # Bantuan untuk Project Akhir
-##Topologi
+## Topologi
 Berikut contoh pembuatan topologi untuk Proyek Akhir, dapat dikreasikan sendiri namun harus jelas (konten, tulisan, garis pembatas, objek cloudnya).
 ![Topologi Arsitektur](https://i.imgur.com/FjJ4odz.png) 
 ![Topologi Sistem](https://i.imgur.com/AW3P2BA.png) 
