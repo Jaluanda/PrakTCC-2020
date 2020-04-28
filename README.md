@@ -37,9 +37,10 @@ Contoh yang sederhana untuk pemanfaatan Ubuntu LAMPP dengan integrasi File Stora
 
 ## Docker
 Contoh pembuatan Docker:
-- Setengah proses pembuatan ada pada Modul Praktikum. Namun harap disesuaikan kembali, tidak harus menggunakan yang ada di modul.
+- Setengah proses pembuatan ada pada Modul Praktikum. Namun harap disesuaikan kembali, tidak harus menggunakan yang ada di modul. (tidak sampai Dokku)
 - Panduan tutorial Digital Ocean: https://www.digitalocean.com/community/tutorials/how-to-set-up-laravel-nginx-and-mysql-with-docker-compose
 - Panduan dari blog pribadi: https://linuxhint.com/lamp_server_docker/
+- atau gunakan panduan lainnya yang relevan.
 
 ## Lainnya
 - Yang perlu diperhatikan ialah bilamana mencari tutorial, pastikan sama versi Ubuntu yang digunakan dengan yang ditunjukkan di tutorial. Bilamana berbeda mungkin akan ada kendala, atau dapat diteruskan namun disesuaikan perintah-perintah yang digunakan.
@@ -49,8 +50,23 @@ Contoh pembuatan Docker:
 ## Perihal Kelompok
 - Bilamana terdapat anggota kelompok yang dirasa menghambat dan tidak dapat ditolerir lagi, dapat menghubungi saya (Jalu) untuk konsultasi lanjut.
 - Bilamana terdapat kendala masalah komunikasi antar anggota hingga menghambat progress pengerjaan (misal kondisi ekonomi tidak dapat membeli paket data, kondisi laptop yang sangat tidak memungkinkan, dan semua usaha lainnya sudah maksimal), sehingga tidak mungkin dikerjakannya project akhir ini, hubungi saya (Jalu).
+Line: @jaluanda atau WhatsApp 083/8400/95/200
 
 # INFORMASI TERBARU
+## Selasa, 28 April 2020
+Informasi perihal submisi laporan **Progress Project 2**:
+- Submisi **Progress Project 2** melalui e-mail: `jaluandaparama@gmail.com`
+- CC (jangan lupa): `muhammadimamalfatah@gmail.com` atau `wahyu_aji11@rocketmail.com` tergantung asisten kelasnya sesuai CBIS/jadwal semula.
+- Subjek `Kelas_Kelompok_ProgressTCC2` (Contoh: B_2_ProgressTCC2)
+- Lampirkan laporan dalam bentuk PDF yang telah dikerjakan dengan format nama berkas `Kelas_Kelompok_ProgressTCC2.pdf` **menggunakan format penulisan yang baru**
+- Berikan keterangan singkat sejauh mana pengerjaan yang telah dilakukan dan kendalanya, dalam bentuk isian (body) email (tulisan biasa).
+- **Tidak sesuai format tidak kami nilai**, setelah kirim e-mail pastikan kembali telah sesuai format.
+- Batas pengumpulan **sebelum jadwal praktikum dimulai**. Dapat dikumpulkan mulai hari ini. Satu kelompok salah satu saja yang mengumpulkan.
+- Bentuk koreksi oleh asisten adalah dalam bentuk Comment, Highlight, atau Coretan di PDF dan akan dikirim kembali ke email pengirim maks. 1 minggu atau dipublish di Repository GitHub ini. Pastikan PDF disimpan dengan format standar sehingga dapat kami Review dengan Nitro PDF.
+
+
+Tim Koordinator (Jaluanda Parama)
+
 ## Rabu, 15 April 2020
 Informasi perihal **hasil** submisi laporan **Progress Project 1**:
 - Format penulisan laporan yang baru telah diupload dengan nama berkas `Format Laporan Cloud Computing v2`. Penulisan untuk Progress Project 2 dan seterusnya menyesuaikan berkas tersebut.
