@@ -7,10 +7,13 @@ Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil 
 - ~~Pertemuan 6 (11 - 13 Maret): Kelanjutan FreeNAS dan Penyampaian Project~~
 - ~~Pertemuan 7 (1 - 3 April): Submisi Progress Project 1~~
 - ~~Pertemuan 8 (15 - 17 April): Revisi Laporan dan Melanjutkan Project~~
-- Pertemuan 9 (29 - 30 April ~ 1 Mei): Submisi Progress Project 2 (hasil dari revisi Pertemuan 7)
-- Pertemuan 10 (6 - 8 Mei): Revisi Laporan dan Melanjutkan Project
+- ~~Pertemuan 9 (29 - 30 April ~ 1 Mei): Submisi Progress Project 2 (hasil dari revisi Pertemuan 7)~~
+- ~~Pertemuan 10 (6 - 8 Mei): Revisi Laporan dan Melanjutkan Project~~
 - Pertemuan 11 (13 - 15 Mei): Submisi Final Project dan Presentasi Online
 - Pertemuan 12 (sesuai jadwal UAS di CBIS): Administrasi UAS (berita acara, pernyataan kejujuran, dsb.)
+
+# Submisi Final Project
+**TBA/Mohon ditunggu**
 
 # Bantuan untuk Project Akhir
 ## Topologi
