@@ -9,11 +9,20 @@ Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil 
 - ~~Pertemuan 8 (15 - 17 April): Revisi Laporan dan Melanjutkan Project~~
 - ~~Pertemuan 9 (29 - 30 April ~ 1 Mei): Submisi Progress Project 2 (hasil dari revisi Pertemuan 7)~~
 - ~~Pertemuan 10 (6 - 8 Mei): Revisi Laporan dan Melanjutkan Project~~
-- Pertemuan 11 (13 - 15 Mei): Submisi Final Project dan Presentasi Online
-- Pertemuan 12 (sesuai jadwal UAS di CBIS): Administrasi UAS (berita acara, pernyataan kejujuran, dsb.)
+- Pertemuan 11 & 12 (hingga 17 Mei): Submisi Final Project dan Presentasi Online
+- Administrasi Nilai (18 Mei ~ 30 Juni)
+- Banding nilai dan komplain (30 Juni) *tentatif
 
 # Submisi Final Project
-**TBA/Mohon ditunggu**
+Informasi mengenai Final Project:
+- Pelajari dan pahami revisi yang telah diberikan oleh Asisten pada PDF yang telah Anda kirim sebelumnya. Segala error yang muncul sewaktu pengerjaan Project coba Anda solusikan. Jika sudah maksimal masukkan apa adanya ke laporan dan berikan penjelasan yang lengkap.
+- Untuk penyerahan Final Project Anda dapat memilih salah satu dari ketiga opsi berikut: **Laporan Final Project**, **Video Tutorial**, atau **Presentasi Online/Video Call**.
+- Untuk opsi Laporan sudah jelas harus 100% selesai, untuk Video Tutorial setara dengan Laporan dapat Anda tentukan sendiri isi kontennya yang layak disajikan bagi kami penilai (konten sederhana maka nilai juga sederhana), untuk Presentasi Online akan kami minta demonstrasi secara Online dan terdapat beberapa pertanyaan. Masing-masing memiliki bobot penilaiannya sendiri-sendiri.
+- Waktu submisi Final Project hingga Minggu, 17 Mei 2020 jam 23.59 WIB. Untuk opsi Presentasi Online akan dilaksanakan setelah batas waktu tersebut. Jadwal akan dipublikasikan di sini.
+
+Pengumpulan Final Project tidak melalui e-mail namun melalui link berikut ini, semua anggota kelompok masing-masing wajib mengisi: https://docs.google.com/forms/d/e/1FAIpQLSd4shz-t6tzCtfN5hs95uFGC-6bz83C2ar8j81GRaIcjc8fZA/viewform?usp=sf_link
+
+Setelah Anda menyelesaikan Final Project, pada prinsipnya **tidak ada lagi pertemuan maupun tugas yang tersisa**. Anda wajib memantau GitHub ini untuk perkembangan terbaru hingga nilai Anda telah keluar pada CBIS dan Anda telah menerima nilai yang Anda dapatkan. **Berakhirnya masa Praktikum ini adalah setelah nilai Anda keluar dan tidak ada pengajuan banding Nilai**.
 
 # Bantuan untuk Project Akhir
 ## Topologi
