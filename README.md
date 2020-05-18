@@ -2,6 +2,18 @@
 Kumpulan berkas ajar Praktikum Teknologi Cloud Computing UPN "Veteran" Yogyakarta
 T.A. Semester Genap 2019/2020
 
+# Submisi Final Project (bagi yang terlambat)
+Informasi bagi yang terlambat:
+- Setelah Anda mengisi form berikut pada dasarnya nilai akan tetap masuk, sama seperti yang telah mengumpulkan.
+- Nilai Anda akan kami potong separuhnya untuk memberikan keadilan bagi yang telah mengumpulkan sesuai jadwal.
+- Untuk nilai yang terpotong yaitu hanya nilai Final Project, nilai Progress 1 dan 2 tetap. Bagi yang tidak mengumpulkan maka nilai tetap 0.
+- Formula penilaian masih sesuai dengan yang dijelaskan di pertemuan pertama: **Kehadiran (10%) + Nilai Harian (45%) + Nilai Project (45%)**. Untuk Nilai Project yaitu rerata Project 1 dan Project 2 ditambahkan nilai Final Project kemudian hasilnya dibagi 2 atau diambil reratanya.
+- Form akan dibuka selama sesi rekap nilai yaitu hingga 31 Mei 2020 jam 23.59 WIB.
+- Sesuai dengan form yang telah Anda masukkan, maka untuk partner Anda yang bermasalah akan kami berikan pengurangan keseluruhan nilai Project.
+- Pengiriman project melalui media lain (e-mail, chat, dsb.) tidak akan kami nilai.
+
+Berikut link untuk pengumpulan Final Project **bagi yang telah lewat dari batas** yang sudah kami tentukan: https://docs.google.com/forms/d/e/1FAIpQLScLB-omrV0mnPm2xAY5z1QX5MWZ6wvwNlRKT3ScudEANOoF2g/viewform?usp=sf_link
+
 # Agenda Praktikum
 Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil dari Surat Edaran dan pembahasan Tim Koordinator Praktikum TCC:
 - ~~Pertemuan 6 (11 - 13 Maret): Kelanjutan FreeNAS dan Penyampaian Project~~
@@ -9,7 +21,7 @@ Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil 
 - ~~Pertemuan 8 (15 - 17 April): Revisi Laporan dan Melanjutkan Project~~
 - ~~Pertemuan 9 (29 - 30 April ~ 1 Mei): Submisi Progress Project 2 (hasil dari revisi Pertemuan 7)~~
 - ~~Pertemuan 10 (6 - 8 Mei): Revisi Laporan dan Melanjutkan Project~~
-- Pertemuan 11 & 12 (hingga 17 Mei): Submisi Final Project
+- ~~Pertemuan 11 & 12 (hingga 17 Mei): Submisi Final Project~~
 - Penilaian dan Administrasi Nilai (18 Mei ~ Juni 2020)
 - Banding nilai dan komplain (Juli 2020) *tentatif
 
@@ -22,7 +34,7 @@ Informasi mengenai Final Project:
 
 Pengumpulan Final Project tidak melalui e-mail namun melalui link berikut ini, semua anggota kelompok **masing-masing wajib mengisi**: https://docs.google.com/forms/d/e/1FAIpQLSd4shz-t6tzCtfN5hs95uFGC-6bz83C2ar8j81GRaIcjc8fZA/viewform?usp=sf_link
 
-Setelah Anda menyelesaikan Final Project, pada prinsipnya **tidak ada lagi pertemuan maupun tugas yang tersisa**. Anda wajib memantau GitHub ini untuk perkembangan terbaru hingga nilai Anda telah keluar pada CBIS. **Berakhirnya masa Praktikum ini adalah setelah nilai Anda keluar dan tidak ada pengajuan banding Nilai**.
+Setelah Anda menyelesaikan Final Project, pada prinsipnya **tidak ada lagi pertemuan maupun tugas yang tersisa**. Anda wajib memantau GitHub ini untuk perkembangan terbaru hingga nilai Anda telah keluar pada CBIS. **Berakhirnya masa Praktikum ini adalah setelah nilai Anda keluar dan tidak ada pengajuan banding Nilai oleh Anda**.
 
 Tim Koordinator (Jaluanda Parama)
 
