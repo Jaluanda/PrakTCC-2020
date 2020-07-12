@@ -1,6 +1,23 @@
 # PrakTCC-2020
 Kumpulan berkas ajar Praktikum Teknologi Cloud Computing UPN "Veteran" Yogyakarta
-T.A. Semester Genap 2019/2020
+T.A. 2019/2020 Semester Genap
+
+# Agenda Praktikum
+Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil dari Surat Edaran dan pembahasan Tim Koordinator Praktikum TCC:
+- ~~Pertemuan 6 (11 - 13 Maret): Kelanjutan FreeNAS dan Penyampaian Project~~
+- ~~Pertemuan 7 (1 - 3 April): Submisi Progress Project 1~~
+- ~~Pertemuan 8 (15 - 17 April): Revisi Laporan dan Melanjutkan Project~~
+- ~~Pertemuan 9 (29 - 30 April ~ 1 Mei): Submisi Progress Project 2 (hasil dari revisi Pertemuan 7)~~
+- ~~Pertemuan 10 (6 - 8 Mei): Revisi Laporan dan Melanjutkan Project~~
+- ~~Pertemuan 11 & 12 (hingga 17 Mei): Submisi Final Project~~
+- ~~Penilaian dan Administrasi Nilai (18 Mei ~ 12 Juli 2020)
+- Banding nilai dan komplain (13 Juli ~ 31 Juli 2020)
+
+# Rekap Penilaian
+Berikut statistik nilai yang didapat setiap kelas:
+![Nilai Praktikum Only](https://i.imgur.com/Fq5uD0V.png) 
+
+Ket: Banding nilai silakan dengan menghubungi pak Awang terlebih dahulu.
 
 # Submisi Final Project (bagi yang terlambat)
 Informasi bagi yang terlambat:
@@ -12,18 +29,7 @@ Informasi bagi yang terlambat:
 - Sesuai dengan form yang telah Anda masukkan, maka untuk partner Anda yang bermasalah akan kami berikan pengurangan keseluruhan nilai Project.
 - Pengiriman project melalui media lain (e-mail, chat, dsb.) tidak akan kami nilai.
 
-Berikut link untuk pengumpulan Final Project **bagi yang telah lewat dari batas** yang sudah kami tentukan: https://docs.google.com/forms/d/e/1FAIpQLScLB-omrV0mnPm2xAY5z1QX5MWZ6wvwNlRKT3ScudEANOoF2g/viewform?usp=sf_link
-
-# Agenda Praktikum
-Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil dari Surat Edaran dan pembahasan Tim Koordinator Praktikum TCC:
-- ~~Pertemuan 6 (11 - 13 Maret): Kelanjutan FreeNAS dan Penyampaian Project~~
-- ~~Pertemuan 7 (1 - 3 April): Submisi Progress Project 1~~
-- ~~Pertemuan 8 (15 - 17 April): Revisi Laporan dan Melanjutkan Project~~
-- ~~Pertemuan 9 (29 - 30 April ~ 1 Mei): Submisi Progress Project 2 (hasil dari revisi Pertemuan 7)~~
-- ~~Pertemuan 10 (6 - 8 Mei): Revisi Laporan dan Melanjutkan Project~~
-- ~~Pertemuan 11 & 12 (hingga 17 Mei): Submisi Final Project~~
-- Penilaian dan Administrasi Nilai (18 Mei ~ Juni 2020)
-- Banding nilai dan komplain (Juli 2020) *tentatif
+Berikut link untuk pengumpulan Final Project **bagi yang telah lewat dari batas pengumpulan**: https://docs.google.com/forms/d/e/1FAIpQLScLB-omrV0mnPm2xAY5z1QX5MWZ6wvwNlRKT3ScudEANOoF2g/viewform?usp=sf_link
 
 # Submisi Final Project
 Informasi mengenai Final Project:
