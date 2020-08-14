@@ -11,13 +11,11 @@ Berikut agenda praktikum **yang terbaru** untuk Praktikum TCC berdasarkan hasil 
 - ~~Pertemuan 10 (6 - 8 Mei): Revisi Laporan dan Melanjutkan Project~~
 - ~~Pertemuan 11 & 12 (hingga 17 Mei): Submisi Final Project~~
 - ~~Penilaian dan Administrasi Nilai (18 Mei ~ 12 Juli 2020)~~
-- Banding nilai dan komplain (13 Juli ~ 31 Juli 2020)
+- ~~Banding nilai dan komplain (13 Juli ~ 31 Juli 2020)~~
 
 # Rekap Penilaian
 Berikut statistik nilai yang didapat setiap kelas:
 ![Nilai Praktikum Only](https://i.imgur.com/9zCQDzf.png) 
-
-Ket: Banding nilai silakan dengan menghubungi pak Awang terlebih dahulu. Untuk nilai final hasil penjumlahan nilai teori dan nilai praktikum masih menunggu pak Awang. Estimasi minggu ini (~ 19 Juli 2020)
 
 # Submisi Final Project (bagi yang terlambat)
 Informasi bagi yang terlambat:
